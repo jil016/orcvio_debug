@@ -172,8 +172,8 @@ Still, same build mode would produce the same first prediction.
 #### 3.3.2 Same build mode, different perturbation
 - **Release mode:  Left vs Right perturbation** (huge difference in the beginning)
 
-![Release_mode, Left perturbation](/traj_zupt0_left_release/left_release.png)
-![Release mode, Right perturbation](/traj_zupt0_right_release/right_release.png)
+![Release_mode, Left perturbation](traj_zupt0_left_release/left_release.png)
+![Release mode, Right perturbation](traj_zupt0_right_release/right_release.png)
 
 - **Debug mode:  Left vs Right perturbation** (not very different)
 
