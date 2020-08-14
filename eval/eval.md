@@ -8,8 +8,8 @@ evo: [https://github.com/MichaelGrupp/evo](https://github.com/MichaelGrupp/evo)
 ###  without ZUPT (if_ZUPT_valid=0)
 |ZUPT = 0         |Debug (vscode)                 |Release                      |
 |----------------|-------------------------------|-----------------------------|
-|Left perturbation|![traj_zupt0_left_release](https://drive.google.com/file/d/1mq1pWBClJM5PBQld4LJGINx4BkE6Ruq9/view?usp=sharing)            | ![traj_zupt0_right_release](https://drive.google.com/file/d/1mq1pWBClJM5PBQld4LJGINx4BkE6Ruq9/view?usp=sharing)           |
-|Right perturbation | ![traj_zupt0_left_release](https://drive.google.com/file/d/1mq1pWBClJM5PBQld4LJGINx4BkE6Ruq9/view?usp=sharing)           |![traj_zupt0_left_release](https://drive.google.com/file/d/1mq1pWBClJM5PBQld4LJGINx4BkE6Ruq9/view?usp=sharing)            |
+|Left perturbation|![left_debug](traj_zupt0_left_vsdebug/plots/traj_est/trajectory_top_sim3_-1.pdf)|![left_release](traj_zupt0_left_release/plots/traj_est/trajectory_top_sim3_-1.pdf)|
+|Right perturbation |![right_debug](traj_zupt0_right_vsdebug/plots/traj_est/trajectory_top_sim3_-1.pdf)|![right_release](traj_zupt0_right_release/plots/traj_est/trajectory_top_sim3_-1.pdf)|
 
 ## 3. Debug log
 ### 3.1 Initialization
@@ -171,8 +171,9 @@ Still, same build mode would produce the same first prediction.
 
 #### 3.3.2 Same build mode, different perturbation
 - **Release mode:  Left vs Right perturbation** (huge difference in the beginning)
-![Release mode, Left perturbation](/traj_zupt0_right_release/Screenshot from 2020-08-14 06-24-05.png)
-![Release mode, Right perturbation](/traj_zupt0_right_release/Screenshot from 2020-08-14 03-19-11.png)
+
+![Release_mode, Left perturbation](/traj_zupt0_left_release/left_release.png)
+![Release mode, Right perturbation](/traj_zupt0_right_release/right_release.png)
 
 - **Debug mode:  Left vs Right perturbation** (not very different)
 
