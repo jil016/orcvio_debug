@@ -8,7 +8,7 @@ evo: [https://github.com/MichaelGrupp/evo](https://github.com/MichaelGrupp/evo)
 ###  without ZUPT (if_ZUPT_valid=0)
 |ZUPT = 0         |Debug (vscode)                 |Release                      |
 |----------------|-------------------------------|-----------------------------|
-|Left perturbation|![traj_zupt0_left_release](./traj_zupt0_left_release/plots/traj_est/trajectory_top_sim3_-1.pdf)            | ![traj_zupt0_right_release](/eval/traj_zupt0_left_release/plots/traj_est/trajectory_top_sim3_-1.pdf)           |
+|Left perturbation|![traj_zupt0_left_release](traj_zupt0_left_release/plots/traj_est/trajectory_top_sim3_-1.pdf)            | ![traj_zupt0_right_release](/eval/traj_zupt0_left_release/plots/traj_est/trajectory_top_sim3_-1.pdf)           |
 |Right perturbation | ![traj_zupt0_left_release](https://drive.google.com/file/d/1mq1pWBClJM5PBQld4LJGINx4BkE6Ruq9/view?usp=sharing)           |![traj_zupt0_left_release](https://drive.google.com/file/d/1mq1pWBClJM5PBQld4LJGINx4BkE6Ruq9/view?usp=sharing)            |
 
 
