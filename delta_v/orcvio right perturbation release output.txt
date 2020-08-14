@@ -1,0 +1,1056 @@
+erl@erl:~/Workspace/orcvio_cpp/build$ ./orcvio
+
+
+===========================================
+not using FEJ...
+not estimating td...
+not estimating extrinsic...
+not calibrating imu instrinsic online...
+Pure MSCKF...
+not using zero velocity update
+using right perturbation
+using closed form covariance propagation
+using orcvio
+===========================================
+
+
+Images from now on will be utilized...
+
+
+Dynamic initialization success !
+
+
+timestamp 1403636580.863555670
+timestamp 1403636580.963555574
+timestamp 1403636581.063555717
+timestamp 1403636581.163555622
+delta velocity: 0.033674
+delta position: 0.009995
+timestamp 1403636581.263555765
+delta velocity: 0.054765
+delta position: 0.021641
+timestamp 1403636581.363555670
+delta velocity: 0.009279
+delta position: 0.003771
+timestamp 1403636581.463555574
+delta velocity: 0.015689
+delta position: 0.007620
+timestamp 1403636581.563555717
+delta velocity: 0.021354
+delta position: 0.014683
+timestamp 1403636581.663555622
+delta velocity: 0.004069
+delta position: 0.001234
+timestamp 1403636581.763555765
+delta velocity: 0.001676
+delta position: 0.000735
+timestamp 1403636581.863555670
+delta velocity: 0.003764
+delta position: 0.000966
+timestamp 1403636581.963555574
+delta velocity: 0.015601
+delta position: 0.003655
+timestamp 1403636582.063555717
+delta velocity: 0.006700
+delta position: 0.002331
+timestamp 1403636582.163555622
+delta velocity: 0.010059
+delta position: 0.003123
+timestamp 1403636582.263555765
+delta velocity: 0.011363
+delta position: 0.004859
+timestamp 1403636582.363555670
+delta velocity: 0.008496
+delta position: 0.002587
+timestamp 1403636582.463555574
+delta velocity: 0.005130
+delta position: 0.005038
+timestamp 1403636582.563555717
+delta velocity: 0.005435
+delta position: 0.003621
+timestamp 1403636582.663555622
+delta velocity: 0.004410
+delta position: 0.000760
+timestamp 1403636582.763555765
+delta velocity: 0.003974
+delta position: 0.000822
+delta velocity: 0.000546
+delta position: 0.000112
+timestamp 1403636582.863555670
+timestamp 1403636582.963555574
+delta velocity: 0.002655
+delta position: 0.000817
+delta velocity: 0.002230
+delta position: 0.000497
+timestamp 1403636583.063555717
+delta velocity: 0.002494
+delta position: 0.000970
+timestamp 1403636583.163555622
+delta velocity: 0.001452
+delta position: 0.000477
+delta velocity: 0.001962
+delta position: 0.000640
+timestamp 1403636583.263555765
+timestamp 1403636583.363555670
+delta velocity: 0.002432
+delta position: 0.000940
+timestamp 1403636583.463555574
+timestamp 1403636583.563555717
+delta velocity: 0.004570
+delta position: 0.001855
+timestamp 1403636583.663555622
+timestamp 1403636583.763555765
+delta velocity: 0.024047
+delta position: 0.016401
+delta velocity: 0.000944
+delta position: 0.000404
+timestamp 1403636583.863555670
+timestamp 1403636583.963555574
+delta velocity: 0.038489
+delta position: 0.031546
+delta velocity: 0.025055
+delta position: 0.012989
+timestamp 1403636584.063555717
+delta velocity: 0.001098
+delta position: 0.000185
+timestamp 1403636584.163555622
+delta velocity: 0.003595
+delta position: 0.001090
+timestamp 1403636584.263555765
+timestamp 1403636584.363555670
+delta velocity: 0.010547
+delta position: 0.006167
+timestamp 1403636584.463555574
+timestamp 1403636584.563555717
+delta velocity: 0.003816
+delta position: 0.001054
+timestamp 1403636584.663555622
+timestamp 1403636584.763555765
+delta velocity: 0.005172
+delta position: 0.001286
+timestamp 1403636584.863555670
+timestamp 1403636584.963555574
+delta velocity: 0.011620
+delta position: 0.004316
+timestamp 1403636585.063555717
+timestamp 1403636585.163555622
+delta velocity: 0.015905
+delta position: 0.012251
+timestamp 1403636585.263555765
+timestamp 1403636585.363555670
+delta velocity: 0.011871
+delta position: 0.009198
+timestamp 1403636585.463555574
+timestamp 1403636585.563555717
+delta velocity: 0.010697
+delta position: 0.005570
+timestamp 1403636585.663555622
+timestamp 1403636585.763555765
+delta velocity: 0.011434
+delta position: 0.006638
+timestamp 1403636585.863555670
+timestamp 1403636585.963555574
+delta velocity: 0.034402
+delta position: 0.042194
+timestamp 1403636586.063555717
+timestamp 1403636586.163555622
+delta velocity: 0.006265
+delta position: 0.002880
+timestamp 1403636586.263555765
+timestamp 1403636586.363555670
+delta velocity: 0.008822
+delta position: 0.003617
+timestamp 1403636586.463555574
+timestamp 1403636586.563555717
+timestamp 1403636586.663555622
+timestamp 1403636586.763555765
+delta velocity: 0.009896
+delta position: 0.004348
+delta velocity: 0.001005
+delta position: 0.000430
+timestamp 1403636586.863555670
+timestamp 1403636586.963555574
+delta velocity: 0.009461
+delta position: 0.003358
+delta velocity: 0.008455
+delta position: 0.002546
+timestamp 1403636587.063555717
+timestamp 1403636587.163555622
+delta velocity: 0.003605
+delta position: 0.000707
+delta velocity: 0.003650
+delta position: 0.000971
+timestamp 1403636587.263555765
+timestamp 1403636587.363555670
+delta velocity: 0.014329
+delta position: 0.006512
+delta velocity: 0.001047
+delta position: 0.000169
+timestamp 1403636587.463555574
+timestamp 1403636587.563555717
+delta velocity: 0.007500
+delta position: 0.003111
+delta velocity: 0.001235
+delta position: 0.000385
+timestamp 1403636587.663555622
+timestamp 1403636587.763555765
+delta velocity: 0.007657
+delta position: 0.005550
+delta velocity: 0.003076
+delta position: 0.000912
+timestamp 1403636587.863555670
+timestamp 1403636587.963555574
+delta velocity: 0.008851
+delta position: 0.002705
+delta velocity: 0.004991
+delta position: 0.001116
+timestamp 1403636588.063555717
+timestamp 1403636588.163555622
+delta velocity: 0.005787
+delta position: 0.003068
+timestamp 1403636588.263555765
+timestamp 1403636588.363555670
+delta velocity: 0.004204
+delta position: 0.001624
+timestamp 1403636588.463555574
+timestamp 1403636588.563555717
+delta velocity: 0.003497
+delta position: 0.002277
+timestamp 1403636588.663555622
+timestamp 1403636588.763555765
+delta velocity: 0.021596
+delta position: 0.012029
+delta velocity: 0.005504
+delta position: 0.001622
+timestamp 1403636588.863555670
+timestamp 1403636588.963555574
+delta velocity: 0.005971
+delta position: 0.001750
+timestamp 1403636589.063555717
+timestamp 1403636589.163555622
+delta velocity: 0.001775
+delta position: 0.000463
+timestamp 1403636589.263555765
+timestamp 1403636589.363555670
+delta velocity: 0.009003
+delta position: 0.002868
+timestamp 1403636589.463555574
+timestamp 1403636589.563555717
+delta velocity: 0.004593
+delta position: 0.001714
+timestamp 1403636589.663555622
+timestamp 1403636589.763555765
+delta velocity: 0.008937
+delta position: 0.003772
+timestamp 1403636589.863555670
+timestamp 1403636589.963555574
+delta velocity: 0.007093
+delta position: 0.008790
+timestamp 1403636590.063555717
+delta velocity: 0.006542
+delta position: 0.004325
+timestamp 1403636590.163555622
+delta velocity: 0.011360
+delta position: 0.005446
+delta velocity: 0.001615
+delta position: 0.000615
+timestamp 1403636590.263555765
+delta velocity: 0.002740
+delta position: 0.001757
+timestamp 1403636590.363555670
+delta velocity: 0.004567
+delta position: 0.003351
+delta velocity: 0.012533
+delta position: 0.005858
+timestamp 1403636590.463555574
+delta velocity: 0.000976
+delta position: 0.000737
+timestamp 1403636590.563555717
+delta velocity: 0.003103
+delta position: 0.001141
+delta velocity: 0.006889
+delta position: 0.001759
+timestamp 1403636590.663555622
+timestamp 1403636590.763555765
+delta velocity: 0.005729
+delta position: 0.003112
+delta velocity: 0.002536
+delta position: 0.000699
+timestamp 1403636590.863555670
+delta velocity: 0.000776
+delta position: 0.000357
+timestamp 1403636590.963555574
+delta velocity: 0.004281
+delta position: 0.001850
+delta velocity: 0.006236
+delta position: 0.000921
+timestamp 1403636591.063555717
+delta velocity: 0.002581
+delta position: 0.000788
+timestamp 1403636591.163555622
+delta velocity: 0.003713
+delta position: 0.000816
+delta velocity: 0.005316
+delta position: 0.001362
+timestamp 1403636591.263555765
+delta velocity: 0.010369
+delta position: 0.005213
+timestamp 1403636591.363555670
+delta velocity: 0.007182
+delta position: 0.002839
+delta velocity: 0.009105
+delta position: 0.002233
+timestamp 1403636591.463555574
+delta velocity: 0.012332
+delta position: 0.006992
+timestamp 1403636591.563555717
+delta velocity: 0.002260
+delta position: 0.000633
+timestamp 1403636591.663555622
+delta velocity: 0.007782
+delta position: 0.003774
+timestamp 1403636591.763555765
+delta velocity: 0.005757
+delta position: 0.001722
+timestamp 1403636591.863555670
+timestamp 1403636591.963555574
+delta velocity: 0.018092
+delta position: 0.008390
+timestamp 1403636592.063555717
+timestamp 1403636592.163555622
+timestamp 1403636592.263555765
+timestamp 1403636592.363555670
+delta velocity: 0.021284
+delta position: 0.011776
+delta velocity: 0.000918
+delta position: 0.000130
+timestamp 1403636592.463555574
+timestamp 1403636592.563555717
+delta velocity: 0.011508
+delta position: 0.005675
+delta velocity: 0.003408
+delta position: 0.000519
+timestamp 1403636592.663555622
+timestamp 1403636592.763555765
+delta velocity: 0.013191
+delta position: 0.003138
+delta velocity: 0.010136
+delta position: 0.003680
+timestamp 1403636592.863555670
+timestamp 1403636592.963555574
+delta velocity: 0.002264
+delta position: 0.001309
+delta velocity: 0.017650
+delta position: 0.006775
+timestamp 1403636593.063555717
+timestamp 1403636593.163555622
+timestamp 1403636593.263555765
+delta velocity: 0.005010
+delta position: 0.002248
+timestamp 1403636593.363555670
+delta velocity: 0.006487
+delta position: 0.002794
+timestamp 1403636593.463555574
+delta velocity: 0.008292
+delta position: 0.002236
+timestamp 1403636593.563555717
+delta velocity: 0.005137
+delta position: 0.002096
+delta velocity: 0.015029
+delta position: 0.006786
+timestamp 1403636593.663555622
+delta velocity: 0.000358
+delta position: 0.000116
+timestamp 1403636593.763555765
+delta velocity: 0.006081
+delta position: 0.002698
+timestamp 1403636593.863555670
+delta velocity: 0.007649
+delta position: 0.004376
+timestamp 1403636593.963555574
+delta velocity: 0.002624
+delta position: 0.000674
+timestamp 1403636594.063555717
+delta velocity: 0.001209
+delta position: 0.000472
+timestamp 1403636594.163555622
+delta velocity: 0.007835
+delta position: 0.001892
+delta velocity: 0.004319
+delta position: 0.001441
+timestamp 1403636594.263555765
+delta velocity: 0.003875
+delta position: 0.001036
+timestamp 1403636594.363555670
+delta velocity: 0.010484
+delta position: 0.002765
+timestamp 1403636594.463555574
+delta velocity: 0.018884
+delta position: 0.007171
+timestamp 1403636594.563555717
+delta velocity: 0.006988
+delta position: 0.002826
+delta velocity: 0.003479
+delta position: 0.001174
+timestamp 1403636594.663555622
+delta velocity: 0.011700
+delta position: 0.005460
+timestamp 1403636594.763555765
+delta velocity: 0.016251
+delta position: 0.004905
+delta velocity: 0.003579
+delta position: 0.001457
+timestamp 1403636594.863555670
+timestamp 1403636594.963555574
+delta velocity: 0.014126
+delta position: 0.004884
+delta velocity: 0.008997
+delta position: 0.003558
+timestamp 1403636595.063555717
+delta velocity: 0.004533
+delta position: 0.002074
+timestamp 1403636595.163555622
+delta velocity: 0.012613
+delta position: 0.006873
+delta velocity: 0.008242
+delta position: 0.002608
+timestamp 1403636595.263555765
+delta velocity: 0.011001
+delta position: 0.006606
+timestamp 1403636595.363555670
+delta velocity: 0.001364
+delta position: 0.000558
+timestamp 1403636595.463555574
+delta velocity: 0.006908
+delta position: 0.001959
+timestamp 1403636595.563555717
+delta velocity: 0.020377
+delta position: 0.007589
+delta velocity: 0.005401
+delta position: 0.002259
+timestamp 1403636595.663555622
+timestamp 1403636595.763555765
+delta velocity: 0.005625
+delta position: 0.002596
+timestamp 1403636595.863555670
+delta velocity: 0.008549
+delta position: 0.003492
+timestamp 1403636595.963555574
+delta velocity: 0.001744
+delta position: 0.000458
+timestamp 1403636596.063555717
+delta velocity: 0.009712
+delta position: 0.002306
+timestamp 1403636596.163555622
+delta velocity: 0.002775
+delta position: 0.001322
+timestamp 1403636596.263555765
+delta velocity: 0.013373
+delta position: 0.005115
+timestamp 1403636596.363555670
+delta velocity: 0.013251
+delta position: 0.005847
+delta velocity: 0.001107
+delta position: 0.000428
+timestamp 1403636596.463555574
+delta velocity: 0.003305
+delta position: 0.001294
+timestamp 1403636596.563555717
+delta velocity: 0.008850
+delta position: 0.002943
+delta velocity: 0.004670
+delta position: 0.001322
+timestamp 1403636596.663555622
+delta velocity: 0.000513
+delta position: 0.000161
+timestamp 1403636596.763555765
+delta velocity: 0.008381
+delta position: 0.001882
+timestamp 1403636596.863555670
+delta velocity: 0.001640
+delta position: 0.000520
+timestamp 1403636596.963555574
+delta velocity: 0.023173
+delta position: 0.009764
+timestamp 1403636597.063555717
+timestamp 1403636597.163555622
+delta velocity: 0.019643
+delta position: 0.008713
+delta velocity: 0.002168
+delta position: 0.000530
+timestamp 1403636597.263555765
+delta velocity: 0.000508
+delta position: 0.001178
+timestamp 1403636597.363555670
+timestamp 1403636597.463555574
+delta velocity: 0.013193
+delta position: 0.007370
+timestamp 1403636597.563555717
+delta velocity: 0.002516
+delta position: 0.000919
+delta velocity: 0.004386
+delta position: 0.001106
+timestamp 1403636597.663555622
+delta velocity: 0.000661
+delta position: 0.000297
+timestamp 1403636597.763555765
+delta velocity: 0.027096
+delta position: 0.012685
+timestamp 1403636597.863555670
+delta velocity: 0.004310
+delta position: 0.001695
+timestamp 1403636597.963555574
+delta velocity: 0.010715
+delta position: 0.003623
+timestamp 1403636598.063555717
+delta velocity: 0.002750
+delta position: 0.000842
+timestamp 1403636598.163555622
+delta velocity: 0.001997
+delta position: 0.000749
+timestamp 1403636598.263555765
+delta velocity: 0.007159
+delta position: 0.002563
+timestamp 1403636598.363555670
+delta velocity: 0.006525
+delta position: 0.003665
+timestamp 1403636598.463555574
+delta velocity: 0.009866
+delta position: 0.003947
+timestamp 1403636598.563555717
+delta velocity: 0.004467
+delta position: 0.001080
+delta velocity: 0.003775
+delta position: 0.001103
+timestamp 1403636598.663555622
+delta velocity: 0.000729
+delta position: 0.000244
+timestamp 1403636598.763555765
+delta velocity: 0.013666
+delta position: 0.004529
+timestamp 1403636598.863555670
+delta velocity: 0.006259
+delta position: 0.001395
+timestamp 1403636598.963555574
+delta velocity: 0.006707
+delta position: 0.002437
+timestamp 1403636599.063555717
+delta velocity: 0.011716
+delta position: 0.002081
+timestamp 1403636599.163555622
+delta velocity: 0.012499
+delta position: 0.001992
+delta velocity: 0.000925
+delta position: 0.000341
+timestamp 1403636599.263555765
+delta velocity: 0.000741
+delta position: 0.000161
+timestamp 1403636599.363555670
+delta velocity: 0.009645
+delta position: 0.002245
+delta velocity: 0.001455
+delta position: 0.000498
+timestamp 1403636599.463555574
+timestamp 1403636599.563555717
+delta velocity: 0.001752
+delta position: 0.000588
+delta velocity: 0.008332
+delta position: 0.002126
+timestamp 1403636599.663555622
+delta velocity: 0.001670
+delta position: 0.000395
+timestamp 1403636599.763555765
+delta velocity: 0.007431
+delta position: 0.002302
+timestamp 1403636599.863555670
+timestamp 1403636599.963555574
+timestamp 1403636600.063555717
+delta velocity: 0.001289
+delta position: 0.000084
+timestamp 1403636600.163555622
+delta velocity: 0.014092
+delta position: 0.005313
+delta velocity: 0.026474
+delta position: 0.007050
+timestamp 1403636600.263555765
+timestamp 1403636600.363555670
+delta velocity: 0.012756
+delta position: 0.003466
+delta velocity: 0.003979
+delta position: 0.000761
+timestamp 1403636600.463555574
+timestamp 1403636600.563555717
+delta velocity: 0.001326
+delta position: 0.000282
+timestamp 1403636600.663555622
+timestamp 1403636600.763555765
+delta velocity: 0.000649
+delta position: 0.000061
+timestamp 1403636600.863555670
+timestamp 1403636600.963555574
+delta velocity: 0.000200
+delta position: 0.000035
+timestamp 1403636601.063555717
+timestamp 1403636601.163555622
+delta velocity: 0.000121
+delta position: 0.000093
+timestamp 1403636601.263555765
+timestamp 1403636601.363555670
+delta velocity: 0.024625
+delta position: 0.015216
+delta velocity: 0.000269
+delta position: 0.000168
+timestamp 1403636601.463555574
+timestamp 1403636601.563555717
+delta velocity: 0.000141
+delta position: 0.000096
+timestamp 1403636601.663555622
+timestamp 1403636601.763555765
+delta velocity: 0.000194
+delta position: 0.000021
+timestamp 1403636601.863555670
+timestamp 1403636601.963555574
+delta velocity: 0.000232
+delta position: 0.000054
+timestamp 1403636602.063555717
+timestamp 1403636602.163555622
+delta velocity: 0.000343
+delta position: 0.000095
+timestamp 1403636602.263555765
+timestamp 1403636602.363555670
+delta velocity: 0.000264
+delta position: 0.000104
+timestamp 1403636602.463555574
+timestamp 1403636602.563555717
+delta velocity: 0.000378
+delta position: 0.000091
+timestamp 1403636602.663555622
+timestamp 1403636602.763555765
+delta velocity: 0.000127
+delta position: 0.000079
+timestamp 1403636602.863555670
+timestamp 1403636602.963555574
+delta velocity: 0.000045
+delta position: 0.000035
+timestamp 1403636603.063555717
+timestamp 1403636603.163555622
+delta velocity: 0.000066
+delta position: 0.000043
+timestamp 1403636603.263555765
+timestamp 1403636603.363555670
+delta velocity: 0.000851
+delta position: 0.002671
+delta velocity: 0.000274
+delta position: 0.000165
+timestamp 1403636603.463555574
+timestamp 1403636603.563555717
+delta velocity: 0.000152
+delta position: 0.000063
+timestamp 1403636603.663555622
+timestamp 1403636603.763555765
+delta velocity: 0.000142
+delta position: 0.000114
+timestamp 1403636603.863555670
+timestamp 1403636603.963555574
+delta velocity: 0.000633
+delta position: 0.000232
+timestamp 1403636604.063555717
+timestamp 1403636604.163555622
+delta velocity: 0.000186
+delta position: 0.000127
+timestamp 1403636604.263555765
+timestamp 1403636604.363555670
+delta velocity: 0.000394
+delta position: 0.000083
+timestamp 1403636604.463555574
+timestamp 1403636604.563555717
+delta velocity: 0.000167
+delta position: 0.000062
+timestamp 1403636604.663555622
+timestamp 1403636604.763555765
+delta velocity: 0.000432
+delta position: 0.000133
+timestamp 1403636604.863555670
+timestamp 1403636604.963555574
+delta velocity: 0.000494
+delta position: 0.000502
+timestamp 1403636605.063555717
+timestamp 1403636605.163555622
+delta velocity: 0.000545
+delta position: 0.000110
+timestamp 1403636605.263555765
+timestamp 1403636605.363555670
+delta velocity: 0.000824
+delta position: 0.000873
+timestamp 1403636605.463555574
+timestamp 1403636605.563555717
+delta velocity: 0.000724
+delta position: 0.000691
+timestamp 1403636605.663555622
+timestamp 1403636605.763555765
+delta velocity: 0.000709
+delta position: 0.000608
+timestamp 1403636605.863555670
+timestamp 1403636605.963555574
+delta velocity: 0.001018
+delta position: 0.000243
+timestamp 1403636606.063555717
+timestamp 1403636606.163555622
+timestamp 1403636606.263555765
+timestamp 1403636606.363555670
+delta velocity: 0.159659
+delta position: 0.401220
+delta velocity: 0.000224
+delta position: 0.000155
+timestamp 1403636606.463555574
+timestamp 1403636606.563555717
+delta velocity: 0.000249
+delta position: 0.000171
+timestamp 1403636606.663555622
+timestamp 1403636606.763555765
+delta velocity: 0.000313
+delta position: 0.000088
+timestamp 1403636606.863555670
+timestamp 1403636606.963555574
+delta velocity: 0.000044
+delta position: 0.000073
+timestamp 1403636607.063555717
+timestamp 1403636607.163555622
+delta velocity: 0.000322
+delta position: 0.000241
+timestamp 1403636607.263555765
+timestamp 1403636607.363555670
+delta velocity: 0.000741
+delta position: 0.000341
+timestamp 1403636607.463555574
+timestamp 1403636607.563555717
+delta velocity: 0.001526
+delta position: 0.001399
+timestamp 1403636607.663555622
+timestamp 1403636607.763555765
+delta velocity: 0.002225
+delta position: 0.001444
+timestamp 1403636607.863555670
+timestamp 1403636607.963555574
+delta velocity: 0.002734
+delta position: 0.002216
+timestamp 1403636608.063555717
+timestamp 1403636608.163555622
+delta velocity: 0.004778
+delta position: 0.005011
+timestamp 1403636608.263555765
+timestamp 1403636608.363555670
+delta velocity: 0.005342
+delta position: 0.005486
+timestamp 1403636608.463555574
+timestamp 1403636608.563555717
+delta velocity: 0.007041
+delta position: 0.008124
+timestamp 1403636608.663555622
+timestamp 1403636608.763555765
+delta velocity: 0.013522
+delta position: 0.020219
+timestamp 1403636608.863555670
+timestamp 1403636608.963555574
+delta velocity: 0.026123
+delta position: 0.046082
+timestamp 1403636609.063555717
+timestamp 1403636609.163555622
+delta velocity: 0.003053
+delta position: 0.019761
+delta velocity: 0.028496
+delta position: 0.052436
+timestamp 1403636609.263555765
+timestamp 1403636609.363555670
+delta velocity: 0.008827
+delta position: 0.013426
+timestamp 1403636609.463555574
+timestamp 1403636609.563555717
+delta velocity: 0.004756
+delta position: 0.002622
+timestamp 1403636609.663555622
+timestamp 1403636609.763555765
+delta velocity: 0.001404
+delta position: 0.003434
+delta velocity: 0.004113
+delta position: 0.001384
+timestamp 1403636609.863555670
+timestamp 1403636609.963555574
+delta velocity: 0.003703
+delta position: 0.001383
+timestamp 1403636610.063555717
+delta velocity: 0.009707
+delta position: 0.011407
+timestamp 1403636610.163555622
+delta velocity: 0.001601
+delta position: 0.000360
+timestamp 1403636610.263555765
+timestamp 1403636610.363555670
+delta velocity: 0.001704
+delta position: 0.000353
+timestamp 1403636610.463555574
+timestamp 1403636610.563555717
+delta velocity: 0.001870
+delta position: 0.000567
+timestamp 1403636610.663555622
+delta velocity: 0.001744
+delta position: 0.001017
+timestamp 1403636610.763555765
+delta velocity: 0.003027
+delta position: 0.002150
+delta velocity: 0.001593
+delta position: 0.000341
+timestamp 1403636610.863555670
+delta velocity: 0.007648
+delta position: 0.009246
+timestamp 1403636610.963555574
+delta velocity: 0.000207
+delta position: 0.000116
+delta velocity: 0.001163
+delta position: 0.000257
+timestamp 1403636611.063555717
+timestamp 1403636611.163555622
+delta velocity: 0.000810
+delta position: 0.000188
+timestamp 1403636611.263555765
+timestamp 1403636611.363555670
+delta velocity: 0.000552
+delta position: 0.000111
+delta velocity: 0.000667
+delta position: 0.000237
+timestamp 1403636611.463555574
+delta velocity: 0.000444
+delta position: 0.000491
+timestamp 1403636611.563555717
+delta velocity: 0.003765
+delta position: 0.001680
+delta velocity: 0.008027
+delta position: 0.005539
+timestamp 1403636611.663555622
+delta velocity: 0.001841
+delta position: 0.003554
+timestamp 1403636611.763555765
+delta velocity: 0.000441
+delta position: 0.000599
+delta velocity: 0.000880
+delta position: 0.000273
+timestamp 1403636611.863555670
+timestamp 1403636611.963555574
+delta velocity: 0.005213
+delta position: 0.015292
+delta velocity: 0.003208
+delta position: 0.000628
+timestamp 1403636612.063555717
+timestamp 1403636612.163555622
+delta velocity: 0.002170
+delta position: 0.000390
+timestamp 1403636612.263555765
+timestamp 1403636612.363555670
+delta velocity: 0.003469
+delta position: 0.004624
+delta velocity: 0.005193
+delta position: 0.001536
+timestamp 1403636612.463555574
+delta velocity: 0.015673
+delta position: 0.004854
+timestamp 1403636612.563555717
+delta velocity: 0.000521
+delta position: 0.000098
+timestamp 1403636612.663555622
+delta velocity: 0.004847
+delta position: 0.001325
+timestamp 1403636612.763555765
+delta velocity: 0.014859
+delta position: 0.005285
+delta velocity: 0.000311
+delta position: 0.000076
+timestamp 1403636612.863555670
+delta velocity: 0.002906
+delta position: 0.000668
+timestamp 1403636612.963555574
+delta velocity: 0.005438
+delta position: 0.001090
+delta velocity: 0.000536
+delta position: 0.000079
+timestamp 1403636613.063555717
+delta velocity: 0.005655
+delta position: 0.001341
+timestamp 1403636613.163555622
+delta velocity: 0.006665
+delta position: 0.002180
+delta velocity: 0.000120
+delta position: 0.000052
+timestamp 1403636613.263555765
+delta velocity: 0.000842
+delta position: 0.000227
+timestamp 1403636613.363555670
+delta velocity: 0.004011
+delta position: 0.001410
+delta velocity: 0.000232
+delta position: 0.000073
+timestamp 1403636613.463555574
+delta velocity: 0.002224
+delta position: 0.000742
+timestamp 1403636613.563555717
+delta velocity: 0.000077
+delta position: 0.000063
+timestamp 1403636613.663555622
+timestamp 1403636613.763555765
+delta velocity: 0.000079
+delta position: 0.000012
+timestamp 1403636613.863555670
+timestamp 1403636613.963555574
+delta velocity: 0.007958
+delta position: 0.003916
+delta velocity: 0.000228
+delta position: 0.000033
+timestamp 1403636614.063555717
+timestamp 1403636614.163555622
+delta velocity: 0.000112
+delta position: 0.000012
+timestamp 1403636614.263555765
+timestamp 1403636614.363555670
+delta velocity: 0.000165
+delta position: 0.000039
+timestamp 1403636614.463555574
+timestamp 1403636614.563555717
+delta velocity: 0.000293
+delta position: 0.000060
+timestamp 1403636614.663555622
+timestamp 1403636614.763555765
+delta velocity: 0.000467
+delta position: 0.000131
+timestamp 1403636614.863555670
+timestamp 1403636614.963555574
+delta velocity: 0.000748
+delta position: 0.000229
+timestamp 1403636615.063555717
+timestamp 1403636615.163555622
+delta velocity: 0.000917
+delta position: 0.000415
+timestamp 1403636615.263555765
+timestamp 1403636615.363555670
+delta velocity: 0.000963
+delta position: 0.000324
+timestamp 1403636615.463555574
+timestamp 1403636615.563555717
+delta velocity: 0.001264
+delta position: 0.000279
+timestamp 1403636615.663555622
+timestamp 1403636615.763555765
+delta velocity: 0.001271
+delta position: 0.000403
+timestamp 1403636615.863555670
+timestamp 1403636615.963555574
+delta velocity: 0.001987
+delta position: 0.000925
+timestamp 1403636616.063555717
+timestamp 1403636616.163555622
+delta velocity: 0.001769
+delta position: 0.001165
+timestamp 1403636616.263555765
+delta velocity: 0.029575
+delta position: 0.039959
+timestamp 1403636616.363555670
+delta velocity: 0.000514
+delta position: 0.000146
+timestamp 1403636616.463555574
+timestamp 1403636616.563555717
+delta velocity: 0.000466
+delta position: 0.000135
+timestamp 1403636616.663555622
+timestamp 1403636616.763555765
+delta velocity: 0.000435
+delta position: 0.000144
+timestamp 1403636616.863555670
+timestamp 1403636616.963555574
+delta velocity: 0.000757
+delta position: 0.000168
+timestamp 1403636617.063555717
+timestamp 1403636617.163555622
+delta velocity: 0.001974
+delta position: 0.002138
+delta velocity: 0.001034
+delta position: 0.000220
+timestamp 1403636617.263555765
+timestamp 1403636617.363555670
+delta velocity: 0.001100
+delta position: 0.000255
+timestamp 1403636617.463555574
+timestamp 1403636617.563555717
+delta velocity: 0.001411
+delta position: 0.000327
+timestamp 1403636617.663555622
+timestamp 1403636617.763555765
+delta velocity: 0.001956
+delta position: 0.000542
+timestamp 1403636617.863555670
+timestamp 1403636617.963555574
+delta velocity: 0.001012
+delta position: 0.000534
+timestamp 1403636618.063555717
+timestamp 1403636618.163555622
+delta velocity: 0.000767
+delta position: 0.000323
+timestamp 1403636618.263555765
+timestamp 1403636618.363555670
+delta velocity: 0.001580
+delta position: 0.000520
+timestamp 1403636618.463555574
+timestamp 1403636618.563555717
+delta velocity: 0.046424
+delta position: 0.067765
+delta velocity: 0.000109
+delta position: 0.000089
+timestamp 1403636618.663555622
+timestamp 1403636618.763555765
+delta velocity: 0.000024
+delta position: 0.000053
+timestamp 1403636618.863555670
+timestamp 1403636618.963555574
+delta velocity: 0.001018
+delta position: 0.000841
+delta velocity: 0.000111
+delta position: 0.000047
+timestamp 1403636619.063555717
+timestamp 1403636619.163555622
+delta velocity: 0.000065
+delta position: 0.000020
+timestamp 1403636619.263555765
+timestamp 1403636619.363555670
+delta velocity: 0.000156
+delta position: 0.000063
+timestamp 1403636619.463555574
+timestamp 1403636619.563555717
+delta velocity: 0.006295
+delta position: 0.004954
+delta velocity: 0.000701
+delta position: 0.000138
+timestamp 1403636619.663555622
+timestamp 1403636619.763555765
+delta velocity: 0.000208
+delta position: 0.000079
+timestamp 1403636619.863555670
+timestamp 1403636619.963555574
+delta velocity: 0.000555
+delta position: 0.000129
+timestamp 1403636620.063555717
+timestamp 1403636620.163555622
+delta velocity: 0.000219
+delta position: 0.000068
+timestamp 1403636620.263555765
+timestamp 1403636620.363555670
+delta velocity: 0.000498
+delta position: 0.000173
+timestamp 1403636620.463555574
+timestamp 1403636620.563555717
+delta velocity: 0.000165
+delta position: 0.000040
+timestamp 1403636620.663555622
+timestamp 1403636620.763555765
+delta velocity: 0.000138
+delta position: 0.000058
+timestamp 1403636620.863555670
+timestamp 1403636620.963555574
+delta velocity: 0.001100
+delta position: 0.000497
