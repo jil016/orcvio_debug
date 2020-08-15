@@ -1,10 +1,10 @@
-## Packages & Tools
+## 1. Packages & Tools
 rpg_trajectory_evaluation: [https://github.com/uzh-rpg/rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation)
 
 evo: [https://github.com/MichaelGrupp/evo](https://github.com/MichaelGrupp/evo)
 
 
-## Trajectory Eval
+## 2. Trajectory Eval
 ###  without ZUPT (if_ZUPT_valid=0)
 |ZUPT = 0         |Debug (vscode)                 |Release                      |
 |----------------|-------------------------------|-----------------------------|
@@ -176,4 +176,13 @@ Still, same build mode would produce the same first prediction.
 ![Release mode, Right perturbation](traj_zupt0_right_release/right_release.png)
 
 - **Debug mode:  Left vs Right perturbation** (not very different)
+
+
+## 4. Baseline
+baseline (doing great) orcvio_euroc_cpp, test_vio branch: [https://github.com/moshanATucsd/orcvio_euroc_cpp/tree/test_orcvio](https://github.com/moshanATucsd/orcvio_euroc_cpp/tree/test_orcvio)=
+
+[file link](traj_zupt0_left_larvio_release/orcvio_state_track.txt)
+
+[file link](traj_zupt0_right_larvio_release/orcvio_state_track.txt)
+
 
