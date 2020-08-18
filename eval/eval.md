@@ -185,6 +185,7 @@ baseline (doing great) orcvio_euroc_cpp, test_vio branch: [https://github.com/mo
 
 [file link](traj_zupt0_right_larvio_release/orcvio_state_track.txt)
 
+### 4.1 Initialization
 - **Left Perturbation & Release** 
 ```
 initialization 0 0 (predict 0 1) (update 0 2)
@@ -255,4 +256,9 @@ predict 0.2 5
 0.000529194 0.0485155 0.633232
 -0.00156914 0.0120584 0.143808
 ```
+
+### 4.2 First different frame
+
+- **Left Perturbation & release build** 
+![Release_mode, Left perturbation, update 16](orcvio_vs_baseline_left_release/first_different.png)
 
