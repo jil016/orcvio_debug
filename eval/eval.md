@@ -3,6 +3,37 @@ rpg_trajectory_evaluation: [https://github.com/uzh-rpg/rpg_trajectory_evaluation
 
 evo: [https://github.com/MichaelGrupp/evo](https://github.com/MichaelGrupp/evo)
 
+### 1.1 Notes
+
+- **cmake 1**
+> cmake -D CMAKE_BUILD_TYPE=Release ..
+> make
+
+- **cmake 2**
+> cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=YES ..
+> make
+> VScode Run Without Debugging
+
+- **cmake 3**
+> cmake -D CMAKE_BUILD_TYPE=Release ..
+> make
+> cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=YES ..
+> make
+
+- **cmake 4**
+> cmake -D CMAKE_BUILD_TYPE=Release ..
+> cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=YES ..
+> make
+
+
+
+### 1.2 First difference
+
+- include/orcvio/feature.hpp
+
+- https://github.com/moshanATucsd/orcvio_cpp/blob/5a4f6c1b6cc1aeb52647a44fd9c0ebe6b34bfa17/include/orcvio/feature.hpp#L707
+
+
 
 ## 2. Trajectory Eval
 ###  without ZUPT (if_ZUPT_valid=0)
